@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Cubedrain
-- 👀 I’m interested in ... computer Science
-- 🌱 I’m currently learning ... Web development and 3D design and modelling
-- 💞️ I’m looking to collaborate on ... web development
-- 📫 How to reach me ... via my email in my bio
-- 😄 Pronouns: ... he/him
+Making changes every day.
+Self taught not a developer.
 
 <!---
 Cubedrain/Cubedrain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
