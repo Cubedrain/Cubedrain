@@ -1,5 +1,5 @@
-Making changes every day.
-Self taught not a developer.
+Keep it simple
+
 
 <!---
 Cubedrain/Cubedrain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
